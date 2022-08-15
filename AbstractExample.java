@@ -14,7 +14,7 @@ public class AbstractExample {
 		System.out.println(attack.amt);
 	}
 }
-
+ 
 abstract class Attack{
 	int amt = 200;
 	
